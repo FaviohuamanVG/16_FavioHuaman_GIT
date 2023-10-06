@@ -11,6 +11,9 @@ package S08_16;
  */
 public class Main_S08_16 {
     public void Main_S08_16 (String [] args){
+        
+        System.out.println("Hola mundo");
+        
               // Crear objetos de la clase Estudiante
         Estudiante_16 estudiante1 = new Estudiante_16("Juan", 20, "Matemáticas");
         Estudiante_16 estudiante2 = new Estudiante_16("María", 22, "Historia");
